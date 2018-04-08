@@ -1,0 +1,14 @@
+{
+  "name": "ssconf",
+  "version": "1.0.0",
+  "description": "SS conf generartor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dvkannan",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
